@@ -68,8 +68,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
-
-![alt text](image-11.png)
+![alt text](image-19.png)
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -83,7 +82,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![alt text](image-18.png)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -94,7 +93,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 ## OUTPUT
 
 
-
+![alt text](image-17.png)
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -105,6 +104,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+![alt text](image-16.png)
 
 
 Write a batch script that displays a simple menu with three options:
@@ -116,7 +116,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-
+![alt text](image-15.png)
 
 # RESULT:
 The commands/batch files are executed successfully.
